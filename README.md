@@ -33,7 +33,7 @@ To ensure the integrity of the analysis, the following steps were taken:
 <img width="600" height="300" alt="Figure_2" src="https://github.com/user-attachments/assets/641b918b-afbb-4a1b-b917-eb5750daf237" />
 
 ## How to Run
-1. clone the repository: 'git clone https://github.com/your-username/netflix-analysis.git'
+1. clone the repository: 'git clone https://github.com/nityapatil77/netflix-analysis.git'
 2. install dependencies: 'pip install pandas matplotlib seaborn'
 3. download the dataset from kaggle and place it in the python file (netflix_titles.csv)
 4. run the script: 'python netflix_analysis.py'
