@@ -23,8 +23,10 @@ Snapchat introduced a **5GB** limit on memories. This severely limits the storag
 * **urllib:** To handle asynchronous media downloads from Snapchat's servers.
 * **OS & Datetime:** For file path management and chronological naming.
 
-## 🔧 Setup & Usage
-1. **Configure Paths:** Open the script and update the following variables:
+## Setup & Usage
+1. Download the following file:
+   '''python3 snap_download.py
+3. **Configure Paths:** Open the script and update the following variables:
    ```python
-   JSON_FILE = "path/to/your/memories_history.json"
-   OUTPUT_DIR = "path/to/save/your/media"
+   JSON_FILE = Path("/path/to/jsonfile/here")
+   OUTPUT_DIR = Path("/where/you/want/memories/saved")
