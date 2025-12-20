@@ -24,13 +24,13 @@ To ensure the integrity of the analysis, the following steps were taken:
 
 ## Visualizations
 ### 1. Content Distribution
-<img width="800" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/cd0289c3-e1dc-4f98-bfac-d212459bb90f" />
+<img width="600" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/cd0289c3-e1dc-4f98-bfac-d212459bb90f" />
 
 ### 2. Growth Trends
-*A line graph showing the explosion of content added to the platform starting around 2016.*
+<img width="600" height="300" alt="Figure_5" src="https://github.com/user-attachments/assets/57025bb0-252a-46a6-b1b7-236e0393cbc9" />
 
 ### 3. Top Genres
-*A bar chart identifying International Movies, Dramas, and Comedies as the most frequent categories.*
+<img width="600" height="300" alt="Figure_2" src="https://github.com/user-attachments/assets/641b918b-afbb-4a1b-b917-eb5750daf237" />
 
 ## 🚀 How to Run
 1. Clone this repository: `git clone https://github.com/your-username/netflix-analysis.git`
