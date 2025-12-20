@@ -12,8 +12,8 @@ This project performs an **EDA** on a comprehensive Netflix dataset containing m
 ## Tools & Technologies
 * **Python 3.x**
 * **Pandas:** Data cleaning and manipulation.
-* **Matplotlib & Seaborn:** Data visualization using Netflix-branded color schemes.
-* **Jupyter Notebook:** For interactive development and storytelling.
+* **Matplotlib & Seaborn:** Data visualization using appropriate color schemes.
+* **Jupyter Notebook:** For interactive development.
 
 ## Data Cleaning Process
 To ensure the integrity of the analysis, the following steps were taken:
