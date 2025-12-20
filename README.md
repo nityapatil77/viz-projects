@@ -1,9 +1,9 @@
-# 🎬 Netflix Content Strategy Analysis
+# Netflix Content Strategy Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project performs an **Exploratory Data Analysis (EDA)** on a comprehensive Netflix dataset containing movies and TV shows. The goal is to uncover patterns in content production, geographic distribution, and viewer targeting to understand Netflix's evolving business strategy.
 
-## 📊 Key Insights
+## Key Insights
 * **The Shift to Serialized Content:** While movies still make up the majority of the library, the growth rate of TV Shows has outpaced movies since 2015, indicating a focus on long-term subscriber retention.
 * **Global Diversification:** India and the UK are the largest producers outside the US. The prevalence of "International" genres suggests a successful global expansion strategy.
 * **Target Audience:** A significant majority of content is rated **TV-MA** or **TV-14**, positioning Netflix as a leader in mature, prestige programming compared to family-focused competitors.
@@ -22,9 +22,9 @@ To ensure the integrity of the analysis, the following steps were taken:
 3.  **String Parsing:** Exploded the `listed_in` column to separate multi-genre titles for accurate counting.
 4.  **Feature Engineering:** Extracted numeric values from the `duration` column (e.g., converting "90 min" to `90`) to allow for statistical plotting.
 
-## 📈 Visualizations
+## Visualizations
 ### 1. Content Distribution
-*A pie chart showing the ratio of Movies (approx. 70%) to TV Shows (approx. 30%).*
+<img width="800" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/cd0289c3-e1dc-4f98-bfac-d212459bb90f" />
 
 ### 2. Growth Trends
 *A line graph showing the explosion of content added to the platform starting around 2016.*
@@ -38,6 +38,5 @@ To ensure the integrity of the analysis, the following steps were taken:
 3. Download the dataset from Kaggle and place it in the project directory.
 4. Run the script: `python netflix_analysis.py`
 
----
 **Author:** Nitya Patil  
-**Connect:** [Your LinkedIn Profile Link]
+**Connect:** www.linkedin.com/in/nityapatil
