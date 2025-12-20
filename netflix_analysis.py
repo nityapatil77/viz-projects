@@ -2,14 +2,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Set visual style
 sns.set_style("whitegrid")
 netflix_colors = ['#E50914', '#221f1f'] # Official Netflix branding colors
 
 # 1. LOAD DATA
-# Ensure your path is correct
 try:
-    df = pd.read_csv('/Users/nityapatil/Downloads/netflix_titles.csv')
+    df = pd.read_csv('/your_path_here/netflix_titles.csv')
     print("Data loaded successfully!")
 except FileNotFoundError:
     print("File not found. Please check the path.")
@@ -19,7 +17,6 @@ except FileNotFoundError:
 df['date_added'] = pd.to_datetime(df['date_added'].str.strip())
 df['year_added'] = df['date_added'].dt.year
 
-# Fill missing values
 df['country'] = df['country'].fillna('Unknown')
 df['cast'] = df['cast'].fillna('No Data')
 df['director'] = df['director'].fillna('No Data')
@@ -60,7 +57,7 @@ sns.lineplot(data=movies_df, x='release_year', y='duration_min', color='#E50914'
 plt.title('Trend of Movie Durations Over Release Years')
 plt.xlabel('Release Year')
 plt.ylabel('Duration (Minutes)')
-plt.xlim(1980, 2021) # Focusing on modern era for clarity
+plt.xlim(1980, 2021) 
 plt.show()
 
 # 7. ANALYSIS: CONTENT GROWTH TRENDS
