@@ -25,7 +25,8 @@ Snapchat introduced a **5GB** limit on memories. This severely limits the storag
 
 ## Setup & Usage
 1. Download the following file:
-   '''python3 snap_download.py
+    ```python
+    python3 snap_download.py
 3. **Configure Paths:** Open the script and update the following variables:
    ```python
    JSON_FILE = Path("/path/to/jsonfile/here")
