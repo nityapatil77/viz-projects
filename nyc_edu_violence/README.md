@@ -17,10 +17,15 @@ The goal of this project is to analyze historical shooting incident data from th
 ## 📂 Data Sources
 
 This project aggregates data from several official NYC and State repositories:
-* **NYPD Shooting Incident Data (Historic):** Comprehensive list of every shooting incident that occurred in NYC. [Source](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
-* **NYSED Graduation Rate Data (2023):** Statistics on high school graduation and dropout rates by county. [Source](https://data.nysed.gov/)
-* **NYC School Economic Need Index:** Data providing insight into the financial support required by students and families. [Source](https://data.cityofnewyork.us/resource/2a5f-5ryi.json)
-* **City Population Data:** 2022 population figures for the five boroughs to enable per-capita normalization. [Source](https://www.citypopulation.de/en/usa/newyorkcity/)
+*   **Download** this Dataset Source: https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD
+*   Web Collection #1 Source:
+*   https://data.nysed.gov/gradrate.php?year=2023&county=35 #staten island
+*   https://data.nysed.gov/gradrate.php?year=2023&county=32 #bronx
+*   https://data.nysed.gov/gradrate.php?year=2023&county=33 #brooklyn
+*   https://data.nysed.gov/gradrate.php?year=2023&county=31 #manhattan
+*   https://data.nysed.gov/gradrate.php?year=2023&county=34 #queens
+*   Web Collection #2 Source: https://data.cityofnewyork.us/resource/2a5f-5ryi.json
+*   Web Collection #3 Source: https://www.citypopulation.de/en/usa/newyorkcity/
 
 ---
 
