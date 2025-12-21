@@ -1,4 +1,4 @@
--- CS4400: Introduction to Database Systems: Monday, March 3, 2025
+-- CS4400: Introduction to Database Systems
 -- Simple Airline Management System Course Project Mechanics [TEMPLATE] (v0)
 -- Views, Functions & Stored Procedures
 
