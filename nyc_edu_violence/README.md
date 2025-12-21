@@ -1,6 +1,6 @@
 # Analysis of NYC Shooting Incidents and Socioeconomic Indicators
 
-This repository contains a comprehensive data analysis project focused on understanding the correlations between shooting incidents, educational outcomes, and economic factors across the five boroughs of New York City (Bronx, Brooklyn, Manhattan, Queens, and Staten Island).
+This project contains a comprehensive data analysis project focused on understanding the correlations between shooting incidents, educational outcomes, and economic factors across the five boroughs of New York City (Bronx, Brooklyn, Manhattan, Queens, and Staten Island).
 
 ## 📊 Project Overview
 
