@@ -1,6 +1,6 @@
 # ✈️ Airline Management & Flight Tracking System
 
-## 📌 Project Overview
+## Project Overview
 This project is a relational database system designed to manage the logistics of a global airline network. It was developed for **CS 4400: Introduction to Database Systems** at Georgia Tech. The system tracks everything from airplane maintenance to passenger frequent flyer miles and real-time flight statuses.
 
 ### The "Why"
@@ -8,6 +8,15 @@ The database was created to solve the complex challenge of coordinating intercon
 * **Strict Constraint Enforcement:** Ensuring data integrity, such as requiring Boeing aircraft to have at least two pilots before takeoff.
 * **Dynamic Logistics:** Managing a "Location" system where a person can be at an airport or on a specific airplane at any given time.
 * **Financial & Geographical Tracking:** Automating revenue collection for airlines and frequent flyer mile updates for passengers based on flight distances.
+
+---
+
+## Steps Taken 
+* The first step was to create an entity-relationship diagram.
+* This was vital to understand how everything was to be related when we created the database.
+[entity-relationship (1).pdf](https://github.com/user-attachments/files/24279397/entity-relationship.1.pdf)\
+
+* We then created the database using dummy data, and given certain constraints, created procedures to deal with uncertainty.
 
 ---
 
