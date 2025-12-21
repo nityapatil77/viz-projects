@@ -14,14 +14,15 @@ The database was created to solve the complex challenge of coordinating intercon
 ## Steps Taken 
 * The first step was to create an entity-relationship diagram.
 * This was vital to understand how everything was to be related when we created the database.
-[entity-relationship (1).pdf](https://github.com/user-attachments/files/24279397/entity-relationship.1.pdf)\
+
+<img width="1200" height="800" alt="Figure_1" src="https://github.com/user-attachments/files/24279397/entity-relationship.1.pdf" />
 
 * We then created the database using dummy data, and given certain constraints, created procedures to deal with uncertainty.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-* **Language:** SQL (MySQL Dialect)
+* **Language:** SQL (MySQL Dialxsect)
 * **Environment:** GitHub Codespaces
 * **Database Engine:** InnoDB (to support foreign key constraints and ACID transactions)
 
