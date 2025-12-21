@@ -19,11 +19,11 @@ The goal of this project is to analyze historical shooting incident data from th
 This project aggregates data from several official NYC and State repositories:
 *   **Download** this Dataset Source: https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD
 *   Web Collection #1 Source:
-*   https://data.nysed.gov/gradrate.php?year=2023&county=35 #staten island
-*   https://data.nysed.gov/gradrate.php?year=2023&county=32 #bronx
-*   https://data.nysed.gov/gradrate.php?year=2023&county=33 #brooklyn
-*   https://data.nysed.gov/gradrate.php?year=2023&county=31 #manhattan
-*   https://data.nysed.gov/gradrate.php?year=2023&county=34 #queens
+*   https://data.nysed.gov/gradrate.php?year=2023&county=35 **Staten Island**
+*   https://data.nysed.gov/gradrate.php?year=2023&county=32 **Bronx**
+*   https://data.nysed.gov/gradrate.php?year=2023&county=33 **Brooklyn**
+*   https://data.nysed.gov/gradrate.php?year=2023&county=31 **Manhattan**
+*   https://data.nysed.gov/gradrate.php?year=2023&county=34 **Queens**
 *   Web Collection #2 Source: https://data.cityofnewyork.us/resource/2a5f-5ryi.json
 *   Web Collection #3 Source: https://www.citypopulation.de/en/usa/newyorkcity/
 
