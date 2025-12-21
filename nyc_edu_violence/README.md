@@ -67,4 +67,4 @@ To run the analysis locally, ensure you have the following installed:
    jupyter notebook nyc_analysis.ipynb
 
 ### Youtube Video
-For a detailed walkthrough of the findings and the code implementation, you can view the video presentation here: [YouTube Presentation Link]([url](https://youtu.be/X_j19JvANpI?si=oNCjzKrfUfnuY2_9))
+For a detailed walkthrough of the findings and the code implementation, you can view the video presentation here: [YouTube Presentation Link]([https://youtu.be/X_j19JvANpI?si=oNCjzKrfUfnuY2_9])
