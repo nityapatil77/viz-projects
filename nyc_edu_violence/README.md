@@ -56,14 +56,14 @@ To run the analysis locally, ensure you have the following installed:
    ```bash
    git clone [https://github.com/nityapatil77/nyc-shooting-analysis.git](https://github.com/nityapatil77/nyc-shooting-analysis.git)
 2. Navigate to the project directory:
-   '''bash
+   ```bash
    cd nyc-shooting-analysis
 3. Install the required libraries:
-   ''' bash
+   ```bash
    pip install pandas matplotlib beautifulsoup4 requests seaborn
-4. Ensure that 'NYPD_Shooting_Incident_Data__Historic_.csv' file is in the project directory.
+4. Ensure that `NYPD_Shooting_Incident_Data__Historic_.csv` file is in the project directory.
 5. Launch the Jupyter notebook
-   '''bash
+   ```bash
    jupyter notebook nyc_analysis.ipynb
 
 ### Youtube Video
