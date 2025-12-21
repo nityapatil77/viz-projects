@@ -1,4 +1,4 @@
-# ✈️ Airline Management & Flight Tracking System
+# Airline Management & Flight Tracking System
 
 ## Project Overview
 This project is a relational database system designed to manage the logistics of a global airline network. It was developed for **CS 4400: Introduction to Database Systems** at Georgia Tech. The system tracks everything from airplane maintenance to passenger frequent flyer miles and real-time flight statuses.
@@ -26,7 +26,7 @@ The database was created to solve the complex challenge of coordinating intercon
 
 ---
 
-## 🏗️ Database Architecture
+## Database Architecture
 The schema is built around several core entities:
 * **Entities:** `location`, `airport`, `airline`, `airplane`, `pilot`, and `passenger`.
 * **Flight Mechanics:** `legs` define the distance between two airports, which are then grouped into `route` paths.
@@ -34,7 +34,7 @@ The schema is built around several core entities:
 
 ---
 
-## 🚀 How to See the Results
+## How to See the Results
 
 ### 1. Initialize the Database
 Execute `database_creation.sql` to build the tables and insert the initial seed data, including 25+ airports and 11 major airlines.
