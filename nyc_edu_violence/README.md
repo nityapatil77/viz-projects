@@ -1,16 +1,18 @@
 # Analysis of NYC Shooting Incidents and Socioeconomic Indicators
 
-This repository contains a data analysis project focused on understanding the correlations between shooting incidents, educational outcomes, and economic factors across the five boroughs of New York City (Bronx, Brooklyn, Manhattan, Queens, and Staten Island).
+**CS2316: Data Input and Manipulation** at Georgia Tech.
 
-## 📊 Project Overview
+This project focuses on understanding the correlations between shooting incidents, educational outcomes, and economic factors across the five boroughs of New York City (Bronx, Brooklyn, Manhattan, Queens, and Staten Island).
+
+## Project Overview
 
 The goal of this project is to analyze historical shooting incident data from the NYPD and investigate how these events relate to public school graduation rates, dropout rates, and economic need indices. 
 
 ### Key Research Questions
-* **Education & Crime:** Does the graduation or dropout rate affect the volume of shooting incidents per capita in a borough?
-* **Temporal Patterns:** Are there specific months or times of day when shootings are more frequent?
-* **Economic Influence:** Is there a correlation between the Economic Need Index (ENI) of K-12 schools and the frequency of shootings?
-* **Demographics:** How do victim demographics (specifically gender) vary across different incident locations and socioeconomic environments?
+* Does the graduation or dropout rate affect the volume of shooting incidents per capita in a borough?
+* Are there specific months or times of day when shootings are more frequent?
+* Is there a correlation between the Economic Need Index (ENI) of K-12 schools and the frequency of shootings?
+* How do victim demographics (specifically gender) vary across different incident locations and socioeconomic environments?
 
 ---
 
@@ -29,7 +31,7 @@ This project aggregates data from several official NYC and State repositories:
 
 ---
 
-## 🛠️ Features & Methodology
+## Features & Methodology
 
 The Jupyter Notebook (`nyc_analysis.ipynb`) includes the following technical implementations:
 
@@ -45,7 +47,7 @@ The Jupyter Notebook (`nyc_analysis.ipynb`) includes the following technical imp
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 To run the analysis locally, ensure you have the following installed:
