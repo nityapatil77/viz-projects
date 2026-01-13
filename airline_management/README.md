@@ -3,7 +3,6 @@
 ## Project Overview
 This project is a relational database system designed to manage the logistics of a global airline network. It was developed for **CS 4400: Introduction to Database Systems** at Georgia Tech. The system tracks everything from airplane maintenance to passenger frequent flyer miles and real-time flight statuses.
 
-### The "Why"
 The database was created to solve the complex challenge of coordinating interconnected entities in a high-stakes environment:
 * **Strict Constraint Enforcement:** Ensuring data integrity, such as requiring Boeing aircraft to have at least two pilots before takeoff.
 * **Dynamic Logistics:** Managing a "Location" system where a person can be at an airport or on a specific airplane at any given time.
@@ -19,7 +18,7 @@ The database was created to solve the complex challenge of coordinating intercon
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Language:** SQL (MySQL Dialxsect)
 * **Environment:** GitHub Codespaces
 * **Database Engine:** InnoDB (to support foreign key constraints and ACID transactions)
