@@ -2,6 +2,8 @@
 
 **CS2316: Data Input and Manipulation** at Georgia Tech.
 
+--
+
 This project focuses on understanding the correlations between shooting incidents, educational outcomes, and economic factors across the five boroughs of New York City (Bronx, Brooklyn, Manhattan, Queens, and Staten Island).
 
 ## Project Overview
