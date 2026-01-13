@@ -2,7 +2,7 @@
 
 **CS2316: Data Input and Manipulation** at Georgia Tech.
 
---
+---
 
 This project focuses on understanding the correlations between shooting incidents, educational outcomes, and economic factors across the five boroughs of New York City (Bronx, Brooklyn, Manhattan, Queens, and Staten Island).
 
@@ -18,7 +18,7 @@ The goal of this project is to analyze historical shooting incident data from th
 
 ---
 
-## 📂 Data Sources
+## Data Sources
 
 This project aggregates data from several official NYC and State repositories:
 *   **Download** this Dataset Source: https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD
