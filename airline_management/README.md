@@ -1,4 +1,4 @@
-# Airline Management & Flight Tracking System, 
+# Airline Management & Flight Tracking System
 
 **CS 4400: Introduction to Database Systems** at Georgia Tech. 
 
