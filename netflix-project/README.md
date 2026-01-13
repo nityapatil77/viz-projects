@@ -11,16 +11,16 @@ This project performs an **EDA** on a comprehensive Netflix dataset containing m
 
 ## Tools & Technologies
 * **Python 3.x**
-* **Pandas:** Data cleaning and manipulation.
-* **Matplotlib & Seaborn:** Data visualization using appropriate color schemes.
-* **Jupyter Notebook:** For interactive development.
+* **Pandas, Numpy**
+* **Matplotlib & Seaborn**
+* **Jupyter Notebook**
 
 ## Data Cleaning Process
 To ensure the integrity of the analysis, the following steps were taken:
-1.  **Date Standardizing:** Converted the 'date_added' column from strings to 'datetime' objects.
-2.  **Handling Missing Values:** Imputed "Unknown" for missing countries and "No Data" for directors/cast.
-3.  **String Parsing:** Exploded the 'listed_in' column to separate multi-genre titles for accurate counting.
-4.  **Feature Engineering:** Extracted numeric values from the 'duration' column (e.g., converting "90 min" to '90') to allow for statistical plotting.
+1. Converted the 'date_added' column from strings to 'datetime' objects for data standardization.
+2. Imputed "Unknown" for missing countries and "No Data" for directors/cast to handle missing values 
+3. Exploded the 'listed_in' column to separate multi-genre titles for accurate counting.
+4. Extracted numeric values from the 'duration' column (e.g., converting "90 min" to '90') to allow for statistical plotting.
 
 ## Visualizations
 ### 1. Content Distribution
@@ -37,6 +37,3 @@ To ensure the integrity of the analysis, the following steps were taken:
 2. install dependencies: 'pip install pandas matplotlib seaborn'
 3. download the dataset from kaggle and place it in the python file (netflix_titles.csv)
 4. run the script: 'python netflix_analysis.py'
-
-**Author:** Nitya Patil  
-**Connect:** www.linkedin.com/in/nityapatil
