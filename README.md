@@ -1,5 +1,5 @@
 # Data Analytics & Visualization Projects
-Welcome!
+Welcome! These are projects on data visualization, automation and optimization.
 ## Projects 
 * **[Netflix Content Strategy](./netflix-project):** An EDA of Netflix's library to uncover trends in content growth and geographic distribution.
 * **[Snapchat Memory Downloader](./snapchat):** A Python utility script to automate the backup of personal media from Snapchat JSON exports.
