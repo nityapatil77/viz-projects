@@ -24,19 +24,6 @@ The script is designed to repeatedly query the API, normalize the JSON response 
 * Requests
 * CoinMarketCap Pro API
 
----
-
-## Project Structure
-
-```
-.
-├── main.py          # Python script for pulling and storing crypto data
-├── API.csv          # Output CSV file (generated after running the script)
-└── README.md        # Project documentation
-```
-
----
-
 ## Prerequisites
 
 Before running the script, make sure you have:
@@ -58,8 +45,8 @@ pip install pandas requests
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/crypto-market-data-collector.git
-cd crypto-market-data-collector
+git clone https://github.com/nityapatil77/viz-projects.git
+cd viz-projects/crypto_cap
 ```
 
 2. **Add your API key**
