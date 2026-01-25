@@ -63,7 +63,7 @@ To run the analysis locally, ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone `https://github.com/nityapatil77/nyc-shooting-analysis.git`
+   git clone https://github.com/nityapatil77/nyc-shooting-analysis.git
 2. Navigate to the project directory:
    ```bash
    cd nyc-shooting-analysis
