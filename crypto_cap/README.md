@@ -25,6 +25,13 @@ The script is designed to repeatedly query the API, normalize the JSON response 
 * CoinMarketCap Pro API
 
 ## Prerequisites
+You must get the API key from https://coinmarketcap.com/ to run this code. 
+
+### Steps to get API key:
+1. Go to https://coinmarketcap.com/
+2. Scroll to the bottom of the page and find Crypto API under products.
+3. Press Get Started for Free and create an account.
+4. Copy the API key.
 
 Before running the script, make sure you have:
 
