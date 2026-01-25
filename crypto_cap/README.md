@@ -109,27 +109,19 @@ This chart tracks how the top 15 assets perform across different time horizons (
 
 ### 2. Real-Time Price Tracking (Interactive Time-Series)
 
-An interactive line chart built with **Plotly** that allows users to hover over specific data points to see the exact USD price at a high-frequency (20-second) resolution.
-
-* **Key Insight:** Visualizes "micro-trends" and instant market reactions during the data collection window.
+An interactive line chart built with __Plotly__ that allows users to hover over specific data points to see the exact USD price at a high-frequency (20-second) resolution. This graph visualizes __micro-trends__ and instant market reactions during the data collection window.
 
 ### 3. Market Sentiment: 24h Change (Bar Chart)
 
-A sorted bar chart displaying the percentage change of the top assets over the last 24 hours.
-
-* **Key Insight:** Provides an immediate "heat check" on the market to see if the session is overall bullish (green) or bearish (red).
+A sorted bar chart displaying the percentage change of the top assets over the last 24 hours. This graph provides an immediate __heat check__ on the market to see if the session is overall bullish (green) or bearish (red).
 
 ### 4. Liquidity & Volatility (Bubble Scatter Plot)
 
-A sophisticated scatter plot mapping **Market Cap** (Size) against **24h Volume** (Activity). The "bubbles" are color-coded and sized by price change.
-
-* **Key Insight:** Highlights "outlier" coins—those with low market caps but massive trading volume, which often signals high volatility or institutional interest.
+A sophisticated scatter plot mapping **Market Cap** (Size) against **24h Volume** (Activity). The "bubbles" are color-coded and sized by price change. This graph highlights __outlier__ coins—those with low market caps but massive trading volume, which often signals high volatility or institutional interest.
 
 ### 5. Asset Correlation Matrix (Heatmap)
 
-A statistical heatmap that calculates the correlation coefficient between the price movements of the top 15 cryptocurrencies.
-
-* **Key Insight:** Essential for portfolio diversification; it reveals how closely "Altcoins" (like Solana or Cardano) follow the price action of Bitcoin.
+A statistical heatmap that calculates the correlation coefficient between the price movements of the top 15 cryptocurrencies. This graph show the essential need for portfolio diversification; it reveals how closely __Altcoins__ (like Solana or Cardano) follow the price action of Bitcoin.
 
 ---
 
