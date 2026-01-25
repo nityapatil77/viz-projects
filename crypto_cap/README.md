@@ -103,9 +103,7 @@ This project transforms API snapshots into market visualizations using **Seaborn
 
 ### 1. Multi-Interval Performance Analysis (Point Plot)
 
-This chart tracks how the top 15 assets perform across different time horizons (1h, 24h, 7d, 30d, 60d, and 90d). It utilizes a "stacked" data transformation to compare short-term volatility against long-term trends in a single view.
-
-* **Key Insight:** Identifies which assets are maintaining momentum versus those experiencing short-term "pumps."
+This chart tracks how the top 15 assets perform across different time horizons (1h, 24h, 7d, 30d, 60d, and 90d). It utilizes a "stacked" data transformation to compare short-term volatility against long-term trends in a single view. This graph identifies which assets are maintaining momentum versus those experiencing short-term "pumps."
 
 ### 2. Real-Time Price Tracking (Interactive Time-Series)
 
