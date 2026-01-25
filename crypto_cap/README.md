@@ -97,16 +97,9 @@ The CSV file includes:
 * Market metrics (price, volume, market cap, etc.)
 * A `timestamp` column indicating when the data was collected
 
-## Current Data Visualizations 
-To finalize your README for a professional data visualization repository, you should highlight the **analytical value** of the charts you've created.
-
-Here is a section you can copy and paste directly into your `README.md` under the **Current Data Visualizations** heading. I have categorized them so recruiters or other developers can quickly see your data storytelling skills.
-
----
-
 ## Current Data Visualizations
 
-This project transforms raw API snapshots into actionable market insights using **Seaborn, Matplotlib, and Plotly**. The following visualizations are included in the Jupyter Notebook:
+This project transforms API snapshots into market visualizations using **Seaborn, Matplotlib, and Plotly**. The following visualizations are included in the Jupyter Notebook:
 
 ### 1. Multi-Interval Performance Analysis (Point Plot)
 
@@ -148,11 +141,6 @@ A statistical heatmap that calculates the correlation coefficient between the pr
 
 ---
 
-## Notes & Best Practices
+## Notes
 
 * CoinMarketCap API has **rate limits** — adjust `sleep(20)` and loop count if needed
-* For long-running jobs, consider:
-
-  * Using a scheduler (cron)
-  * Storing data in a database instead of CSV
-* Use environment variables to securely manage API keys
