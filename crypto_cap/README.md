@@ -108,6 +108,9 @@ This chart tracks how the top 15 assets perform across different time horizons (
 ### 2. Real-Time Price Tracking (Interactive Time-Series)
 
 An interactive line chart built with __Plotly__ that allows users to hover over specific data points to see the exact USD price at a high-frequency (20-second) resolution. This graph visualizes __micro-trends__ and instant market reactions during the data collection window.
+This graphs are technically correct. They accurately reflect data pulled. However, there are two things to keep in mind:
+* Sample Size: Since you only ran the script 10 times over ~3 minutes, the Correlation Heatmap and Price Tracker might show extreme relationships that wouldn't hold true over a full day.
+* Comparison Trap: In the price chart, Bitcoin ($60k+) will look like a flat line at the top, while Cardano ($0.50) will look like a flat line at the bottom.
 
 ### 3. Market Sentiment: 24h Change (Bar Chart)
 
