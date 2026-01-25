@@ -66,7 +66,7 @@ Replace the placeholder in the script:
 
 with your actual CoinMarketCap API key.
 
-> ⚠️ **Do NOT commit your real API key to GitHub.**
+> **Do NOT commit your real API key to GitHub.**
 > Consider using environment variables for production use.
 
 ---
@@ -125,17 +125,3 @@ This format is useful for:
   * Using a scheduler (cron)
   * Storing data in a database instead of CSV
 * Use environment variables to securely manage API keys
-
----
-
-## Disclaimer
-
-This project is for **educational and analytical purposes only** and does not constitute financial advice.
-
----
-
-If you want, I can also:
-
-* Add an **environment variable version** of the script
-* Refactor this into a **class-based or production-ready structure**
-* Help you write a **portfolio-style GitHub description** for recruiters
