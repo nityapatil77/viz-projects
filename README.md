@@ -11,3 +11,4 @@ Welcome! These are projects on data visualization, automation and optimization.
 * **Language:** Python (Pandas, Matplotlib, Seaborn), SQL (MySQL, InnoDB)
 * **Tools:** Jupyter Notebooks, Git/GitHub
 # fintech
+# fintech
